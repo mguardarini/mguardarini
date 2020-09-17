@@ -10,7 +10,7 @@ I'm passionate about C#, React, React Native, NodeJS, CI/CD and Agile and also t
 
 Trying to improve my skills as a software engineer and bring more value to my client projects
 
-## Languages, Technologies & Tools
+## Languages, Technologies and Tools
 
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
 <img height="80" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />

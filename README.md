@@ -8,7 +8,7 @@ Currently working as a Software Engineer in Lambda3
 
 I'm passionate about C#, React, React Native, NodeJS, CI/CD and Agile and also taking a look at terraform with infra as code... 
 
-Trying to improve my skills as a software engineer and bring more value to my client projects
+Trying to improve my skills as a software engineer and bring more value to my client projects and also a speaker in the events of technologies like The Developer Conference and others.
 
 ## Languages, Technologies and Tools
 

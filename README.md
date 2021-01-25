@@ -17,6 +17,7 @@ Trying to improve my skills as a software engineer and bring more value to my cl
 <div style="display: flex; flex: 1; align-items: center; flex-direction: row; width: 100%;>
 <img height="80" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img height="80" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
+<img height="80" src="https://seeklogo.com/images/C/clojure-logo-3433AFADE0-seeklogo.com.png"/>
 <img height="80" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />
 <img height="80" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img height="80" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" />

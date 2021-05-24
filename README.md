@@ -2,7 +2,7 @@
 
 ## I'm Software Developer from Brazil since 2014 ~ 2015
 
-I have more than 5 years of experience in software development.
+I have more than 6 years of experience in software development.
 
 Currently working as a Software Engineer in Nubank
 
